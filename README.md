@@ -30,4 +30,8 @@
 >>>>###Try To Improve Theano Framework For Better GPU Accereleation Ratio
 >>>>###Try To Learn Torch Framework
 >>>>###Try to Learn MXNet For Multiple GPU and Multiple workstation
+>>>>###Try to Learn speaker identification and Machine Translation
 >>>>###To Be Continued
+#Done:
+>>>>###Finished Submitting a paper to ICML2016
+
