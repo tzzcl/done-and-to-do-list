@@ -25,12 +25,15 @@
 >
 #To Do List:
 >>###For Research:
->>>>###?????????(NIPS?)
->>>>###Finishing Reading Of Element Of Statistic Learning
->>>>###Try To Improve Theano Framework For Better GPU Accereleation Ratio
->>>>###Try To Learn Torch Framework
->>>>###Try to Learn MXNet For Multiple GPU and Multiple workstation
->>>>###Try to Learn speaker identification and Machine Translation
+>>>>###?????????(NIPS?)(Not Finished,Wait For another conference/topic)
+>>>>###Finishing Reading Of Element Of Statistic Learning(To Chap 4)
+>>>>###~~Try To Improve Theano Framework For Better GPU Accereleation Ratio~~(None because of python's GIL)
+>>>>###~~Try To Learn Torch Framework~~(Finished)
+>>>>###~~Try to Learn MXNet For Multiple GPU and Multiple workstation~~(Finished)
+>>>>###~~Try to Learn speaker identification and Machine Translation~~（Finished)
+>>>>###~~Try to Use TensorFlow~~（Finished)
+>>>>###~~Propose Issues to Blocks Framework~~（Finished)
+>>>>###Prepare to Participate Contest [First Impression](https://competitions.codalab.org/competitions/9181)
 >>>>###To Be Continued
 #Done:
 >>>>###Finished Submitting a paper to ICML2016
