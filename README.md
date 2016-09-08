@@ -37,4 +37,7 @@
 >>>>###To Be Continued
 #Done:
 >>>>###Finished Submitting a paper to ICML2016
+>>>>###Paritipating ChaLearn APA and ranked 1 (https://competitions.codalab.org/competitions/9181)
+>>>>###A Paper Accepted By ECCV2016 Workshops
+>>>>###Finished Submitting a paper to AAAI2017
 
